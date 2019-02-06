@@ -57,6 +57,16 @@ A phrasal template word game written in python. Based on the game Mad Libs
  The Mad Lib text is quite simple. For each field you want populated, use `{i}`. where `i` is the index number of the feild.
  
  Example:
+ ```
+ 4
+Name
+Pronoun
+Occupation
+Noun
+
+{0} is a {2} {1} uses GitHub for his {3}
+```
+
  
  
  
