@@ -1,0 +1,16 @@
+12
+NOUN
+NOUN
+NOUN
+OCCUPATION
+VERB
+PLACE
+VERB ENDING IN "ED"
+NOUN
+VERB ENDING IN "ING"
+NOUN (PLURAL)
+NOUN
+EMOTION
+
+
+It was during the battle of {0} when I was running through a {1} when a {2} went off right next to my platoon. Our {3} yelled for us to {4} to the nearest {5} we could find. When we got to the {5} we {6} to start a fire. As we were starting the fire the enemy saw the {7} from the fire and started {8} {9} at us. we all quickly ducked behind the {10} at the {5} and returned fire. we quickly eliminated the enemy and were {11} that we had won the battle.

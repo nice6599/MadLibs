@@ -1,0 +1,30 @@
+20
+NOUN
+PLACE
+SILLY WORD
+VERB
+NOUN
+VERB 
+ADJECTIVE
+ADJECTIVE
+NUMBER
+ADJECTIVE
+ADVERB
+ADJECTIVE
+ADJECTIVE
+NUMBER
+UNIT OF TIME
+ADJECTIVE
+ADJECTIVE
+ADJECTIVE
+NOUN
+NUMBER
+NUMBER
+
+
+
+
+
+Is your {0} making a mess of your {1}? Try {2}! It will {3} your whole {4} and Swirl to unbelievable levels! Watch, as we demonstrate, the {5} capabilities of this {6} product! Everyone should have at least {7} of these! 
+
+To order, call the number on your screen. {8} phone attendants will {9} take your request. {10} and {11} service will be yours! Call within the next {12} {13}, and you will receive a {14}, {15}, {16} {17} as a bonus, absolutely free for an additional value of {18} dollars, plus shipping and handling cost of {19} dollars. Call Now!!	
