@@ -4,12 +4,13 @@ A phrasal template word game written in python. Based on the game Mad Libs
 
 ## How to play 
  1. Download all the packages
- 2. make sure its all in the same directory 
- 3. run the python file in whatever ide or command line you wish
- 4. follow the rest of the instructions in the program 
+ 2. Make sure its all in the same directory 
+ 3. Run the Python file in whatever IDE or command line you wish
+ 4. Follow the rest of the instructions in the program 
  5. Have Fun!!
  
  ## How the MadLibs files work
+ The files use what I call "prompts" which is just a list basically and they use "fields" (these are not the fields refrenced by `str.format()`) which are designated by brackets surrounding a number `{0}`.
  
  ## Prompts / Word Types 
  Prompts/Word types are the phrases the program prints when asking for user input. An example of this is *Proper Noun*. It is a prompt that prompts the user to input a proper noun.
