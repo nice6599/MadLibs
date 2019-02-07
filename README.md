@@ -58,7 +58,7 @@ A phrasal template word game written in python. Based on the game Mad Libs
  
  Example:
  ```
- 4
+4
 Name
 Pronoun
 Occupation
@@ -66,6 +66,31 @@ Noun
 
 {0} is a {2} {1} uses GitHub for his {3}
 ```
+This file in action looks like this:
+```
+Press Enter to Start...
+Type a number to select a Mad Lib 
+ 
+Choices: 
+ 
+1. War
+2. Television
+3. Very Simple Test 
+
+Choice: 3
+Name
+Sam
+Pronoun
+he
+Occupation
+software engineer
+Noun
+version control 
+
+Sam is a software engineer he uses GitHub for his version control
+Would you like to play again? (y/n): n
+TerminalPrompt:~ user$ 
+``` 
 
  
  
