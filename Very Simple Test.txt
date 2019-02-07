@@ -1,0 +1,7 @@
+4
+Name
+Pronoun
+Occupation
+Noun
+
+{0} is a {2} {1} uses GitHub for his {3}

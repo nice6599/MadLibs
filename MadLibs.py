@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
+from termcolor import colored,cprint
 
 welcomeMessage = """
  _       __     __                             ______    
@@ -9,8 +9,7 @@ welcomeMessage = """
 | |/ |/ /  __/ / /__/ /_/ / / / / / /  __/    / / / /_/ /
 |__/|__/\___/_/\___/\____/_/ /_/ /_/\___/    /_/  \____/ 
                                                          
-""" + """
-
+""" +"""
 ███╗   ███╗ █████╗ ██████╗     ██╗     ██╗██████╗ ███████╗
 ████╗ ████║██╔══██╗██╔══██╗    ██║     ██║██╔══██╗██╔════╝
 ██╔████╔██║███████║██║  ██║    ██║     ██║██████╔╝███████╗
@@ -18,10 +17,12 @@ welcomeMessage = """
 ██║ ╚═╝ ██║██║  ██║██████╔╝    ███████╗██║██████╔╝███████║
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝     ╚══════╝╚═╝╚═════╝ ╚══════╝
                                                           
-""" # the reason for having a variable is so i can have the multi line text
+""" 
+# the reason for having a variable is so i can have the multi line text
 
+print welcomeMessage
 
-print welcomeMessage # this prints the welcome message
+                            # this prints the welcome message
 raw_input("Press Enter to Start...")
 
 while True: 
@@ -31,33 +32,33 @@ while True:
     
     
     mad_text="" # this defines a variable that holds the entire madlib
-    
-    madlist= ["1. War \n","2. Televsion \n"] # this is the list that holds the different madlibs 
-    
+        
     madlib="" # defines a variable that represents the madlib that should be used. It is set to blank and gets set later.
     
     choice=0 # defines variable that represents user choice is the choice 
     
-    play_again = 'y'
+    play_again = ''
     
     replace = [] # resets the users entries
+    
+    libs=[]
 
     
-
-
     while True: 
-        print "Type a number to select a Mad Lib \n \n","Choices: \n \n", madlist
+        print "Type a number to select a Mad Lib \n \n","Choices: \n \n", "1. War\n","2. Television\n","3. Very Simple Test \n"
 
-        choice = raw_input("Choice: ")
-        if choice == "1":
+        choice = int(raw_input("Choice: "))
+        if choice == 1:
             madlib = "War.txt"
-        if choice == "2":
+            break
+        if choice == 2:
             madlib= "Television.txt"
+            break
+        if choice == 3:
+            madlib = "Very Simple Test.txt" 
+            break
         print "Please enter one of the choices."
-            
-            
-
-    libs=[]
+        
     mad_file = open(madlib, 'r')
     
     varAmnt = int(mad_file.readline())
@@ -68,8 +69,6 @@ while True:
     while len(replace) != len(libs):
         replace.append(raw_input(libs[len(replace)]))
             
-
-    
     for line in mad_file :
         mad_text += line
         
@@ -78,9 +77,12 @@ while True:
     print mad_text
     
     while True:
-        play_agian=raw_input("Would you like to play again? (y/n): ")
+        play_again = raw_input("Would you like to play again? (y/n): ")
+    
         if play_again == "y" or play_again == "Y" or play_again == "n" or play_again =="N":
-            break
+            break 
+    
+    
     if play_again == "n" or play_again =="N":
         break
 
