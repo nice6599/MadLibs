@@ -1,30 +1,36 @@
 20
-NOUN
-PLACE
-SILLY WORD
-VERB
-NOUN
-VERB 
-ADJECTIVE
-ADJECTIVE
-NUMBER
-ADJECTIVE
-ADVERB
-ADJECTIVE
-ADJECTIVE
-NUMBER
-UNIT OF TIME
-ADJECTIVE
-ADJECTIVE
-ADJECTIVE
-NOUN
-NUMBER
-NUMBER
+Verb ending in "ing"
+Plural Noun
+imaginary product
+Plural Noun
+person in the room
+general noun product (ex. Household Cleaner, Mops)
+Specific Noun (ex. my life)
+feeling
+Specific Noun (ex. my life)
+Harmless thing
+Onomatopoeia 
+Noun
+Noun
+Noun
+Verb
+Number
+Verb
+Number
+Unit of time plural
+Number
+noun plural
+Horrible thing
+Disaster
+Something you dont want happening
+Public Figure
+Another horrible thing
+Catastrophe 
+Person in the room 
 
 
+Are you tired of {0} with {1}? Look no further than the {2}! Let your {3} melt away! Hi I'm {4}. When I use ordinary {5} on {6} nothing happens, but when you use {2} on {6}. Oh the {7} that it brings! {8}, now just a {9}. {10}. Got a {11}. Got a {12}. Got a {13}. All these problems and more solved with a quick {14} or {15} of {2}.
 
+But Wait, if you {16} in the next {17} {18} you won't just get, not one, but {19} {20} of {2}. Thats more than less the offer. I mean what could possibly go wrong. 
 
-
-Is your {0} making a mess of your {1}? Try {2}! It will {3} your whole {4} and Swirl to unbelievable levels! Watch, as we demonstrate, the {5} capabilities of this {6} product! Everyone should have at least {7} of these! 
-
-To order, call the number on your screen. {8} phone attendants will {9} take your request. {10} and {11} service will be yours! Call within the next {12} {13}, and you will receive a {14}, {15}, {16} {17} as a bonus, absolutely free for an additional value of {18} dollars, plus shipping and handling cost of {19} dollars. Call Now!!	
+DISCLAIMER: {2} inc is not liable for any damages caused by our product. this includes, but is not limited to {21}, {22}, {23}, death of {24}, {25}, {26}, or anything {27} does. 
